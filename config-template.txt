@@ -1,0 +1,8 @@
+
+[django]
+hosts =
+sys_type = prod
+db_suffix = _new
+db_host =
+
+secret_key =
